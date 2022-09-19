@@ -1,0 +1,199 @@
+body{
+
+
+    margin:auto;
+    padding: 0px;
+    background-color: aliceblue;
+    font-family: 'Space Mono', monospace;
+    font-size: larger;
+    color: black;
+
+
+}
+
+
+.contact body{
+
+
+    text-align: center;
+}
+
+
+
+
+a:link{
+
+    color: red;
+    background-color: transparent;
+    text-decoration: none;    
+
+
+}
+
+a:hover{
+
+
+    color: green;
+}
+
+
+.bottom a:link{
+
+background-color: aliceblue;
+color:black;
+text-decoration: none;
+border-color: black;
+border: 50px;
+display: inline-block;
+
+}
+
+
+
+hr{
+
+
+    border-top: 5px solid orangered;
+}
+
+.contact hr{
+
+
+    border-top: 5px solid orangered;
+}
+
+
+.form{
+
+
+
+    text-align: center;
+}
+
+
+
+.top{
+
+
+    text-align: center;
+
+
+}
+
+
+.middle ul{
+
+    display: table;
+    margin: 0 auto;
+
+   
+}
+
+.middle{
+
+
+    text-align: center;
+
+    
+}
+
+.bottom{
+
+
+    text-align: center;
+    background-color: white;
+
+}
+
+
+
+.Leadership dl{
+
+
+    float: left;
+
+    padding-left: 120px;
+}
+
+.Leadership img{
+
+
+    height: 30%;
+    width: 30%;
+
+   
+
+
+
+}
+
+
+.skills dl{
+
+    float: left;
+    padding-left: 140px;
+
+}
+
+
+.skills img{
+
+
+    height: 30%;
+    width: 30%;
+    padding-left: 40px;
+}
+
+
+.skills a{
+
+
+border: 30px solid black;
+
+padding: 10px;
+
+
+}
+
+
+.Languages ul{
+
+
+
+    float: left;
+
+    padding-left: 250px;
+
+
+
+
+
+}
+
+.Languages img{
+
+
+height: 20%;
+width: 20%;
+
+padding-left: 300px;
+
+
+
+
+}
+
+.submit{
+
+padding-right: 200px;
+
+}
+
+.message textarea{
+
+    padding-right: 0px;
+   
+
+}
+
+
